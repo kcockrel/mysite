@@ -1,0 +1,16 @@
+p{
+
+	font-size:16;
+}
+
+body{
+	background-color: #C4C2C1;
+	text-align: center;
+}
+
+#namebox{
+	background-color: #938E99;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 30;
+}
