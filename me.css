@@ -48,7 +48,7 @@ body{
 }
 
 .box{
-	display:inline-block;
+	display:block;
 	width: 220px;
   	height: 220px;
   	font-family: 'Oswald', sans-serif;
