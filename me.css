@@ -3,6 +3,16 @@ p{
 	font-size:18;
 }
 
+a:link {
+  color: #680148;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white ;
+  text-decoration: none;
+}
+
 body{
 	background-color: #FFFFFF;
 	text-align: center;
