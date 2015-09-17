@@ -4,12 +4,12 @@ p{
 }
 
 a:link {
-  color: #680148;
+  color: #13258B;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #89016F ;
+  color: #FF0C1E ;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ body{
 
 .box{
 	display:block;
-	width: 80%;
+	width: 85%;
   	height: 225px;
   	font-family: 'Oswald', sans-serif;
   	margin-left: auto;
@@ -65,5 +65,17 @@ body{
 #pman{
 	/*border-radius: 25px;*/
     border: 2px solid #FED940;
+    padding:5px; 
+}
+
+#box1{
+	/*border-radius: 25px;*/
+    border: 2px solid #13258B;
+    padding:5px; 
+}
+
+#box2{
+	/*border-radius: 25px;*/
+    border: 2px solid #FF0C1E ;
     padding:5px; 
 }
