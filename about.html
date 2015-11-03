@@ -2,12 +2,17 @@
 <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid">
 
-	<header>
-		<div id="namebox">
-			Kendal I. Cockrel <br>
-		<p> <a href="about.html"> About</a> | <a href="me.html">Projects</a> | <a href="mailto:kendal_cockrel@brown.edu" target="_blank">Contact</a> | <a href="cockrelresume.pdf" target="_blank">Resume</a></p>
-		</div>	
-	</header>
+	<head>
+		<title></title>
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script> 
+		$(function(){
+		  $("#header").load("header.html"); 
+		});
+		</script> 
+	</head>
+		<body>
+			<div id="header"></div>
 	<br>
 	<div id="aboutme" align="left">
 		<p>
