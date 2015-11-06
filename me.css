@@ -1,3 +1,7 @@
+h2{
+	font-family: 'Great Vibes', cursive;
+}
+
 h1{
 	font-family: 'Oswald', sans-serif;
 	font-size:20;
@@ -56,7 +60,7 @@ body{
 	font-size: 18;
 	width: 90%;
 	/*border-radius: 25px;*/
-    border: 2px solid #FF0C1E;
+    border: 2px solid #13258B;
     /*padding:5px;*/ 
 }
 
