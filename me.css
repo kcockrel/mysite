@@ -1,14 +1,19 @@
-h2{
-	font-family: 'Great Vibes', cursive;
+h1{
+	/*font-family: 'Great Vibes', cursive;*/
+	font-family: 'Roboto Slab', serif;
+	font-size: :26;
 }
 
-h1{
-	font-family: 'Oswald', sans-serif;
+h2{
+	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Roboto Slab', serif;
 	font-size:20;
 }
 
 p{
 	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 a:link {
@@ -35,7 +40,8 @@ body{
 #namebox{
 	background-color: white;
 /*	background-color:  #13258B;
-*/	font-family: 'Oswald', sans-serif;
+*/	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
 	left: 0;
 	right: 0;
 	text-align: center;
@@ -53,7 +59,8 @@ body{
 	left: 0;
 	right: 0;
 	background-color: white;
-	font-family: 'Oswald', sans-serif;
+	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
 
 	/*font-family: 'Droid', sans-serif;*/
 	text-align: left;
@@ -68,10 +75,11 @@ body{
 	display:block;
 	width: 85%;
   	height: 225px;
-  	font-family: 'Oswald', sans-serif;
+	font-family: 'Open Sans', sans-serif;
   	margin-left: auto;
   	margin-right: auto;
   	background-color:  #FFFFFF;
+  	/*box-shadow: 2px 2px 1px gray;*/
 
 }
 
@@ -93,8 +101,8 @@ body{
     padding:5px; 
 }
 
-#box2{
+#tetris{
 	/*border-radius: 25px;*/
-    border: 2px solid #FF0C1E ;
+    border: 2px solid #FFA500 ;
     padding:5px; 
 }
