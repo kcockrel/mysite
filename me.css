@@ -167,7 +167,7 @@ body{
 .box{
 	display:block;
 	width: 85%;
-  	height: 225px;
+  	min-height: 225px;
 	font-family: 'Open Sans', sans-serif;
   	margin-left: auto;
   	margin-right: auto;
