@@ -129,6 +129,14 @@ body{
 /*	width: 100%;
 */}
 
+#face{
+	float: left; 
+	margin: 0px 15px 15px 5px; 
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
 #aboutme{
 	
 	left: 0;
@@ -141,7 +149,10 @@ body{
 	width: 100%;
 	height: 100vh;
 }
-
+#aboutme p{
+	padding: 30px;
+	font-size: 16pt;
+}
 #projects {
 	background-color: #F8A9DD;
 	background-color: #FD735F;
@@ -149,7 +160,7 @@ body{
 }
 
 #contact{
-	background-color: #FEE6D9;
+	background-color: #4286f4;
 	height: 50vh;
 }
 
