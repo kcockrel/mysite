@@ -141,7 +141,6 @@ body{
 	
 	left: 0;
 	right: 0;
-	background-color: #FF7AA7;
 	background-color: #FEC563;
 	font-family: 'Open Sans', sans-serif;
 	text-align: left;
@@ -152,6 +151,7 @@ body{
 #aboutme p{
 	padding: 30px;
 	font-size: 16pt;
+	/*color: #9932cc;*/
 }
 #projects {
 	background-color: #F8A9DD;
