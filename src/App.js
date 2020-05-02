@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
+import resume from './KendalCockrel_Resume.pdf';
 
 function App() {
-  const resumeLink = process.env.PUBLIC_URL + '/KendalCockrel_Resume_2020_04_16.pdf';
   return (
     <div className="App">
       <header className="App-header">
@@ -11,7 +11,7 @@ function App() {
           <br/>
           I'm a software engineer based in San Francisco, CA.<span role="img" aria-label="fog">🌁</span>
         </p>
-        <a href={resumeLink}>resume</a>
+        <a href={resume} target='_blank'>resume</a>
       </header>
       <div>
         Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
