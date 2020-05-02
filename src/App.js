@@ -11,7 +11,7 @@ function App() {
           <br/>
           I'm a software engineer based in San Francisco, CA.<span role="img" aria-label="fog">🌁</span>
         </p>
-        <a href={resume} target='_blank'>resume</a>
+        <a href={resume}>resume</a>
       </header>
       <div>
         Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
